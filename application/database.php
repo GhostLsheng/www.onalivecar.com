@@ -18,11 +18,11 @@ return [
     // 数据库名
     'database'        => 'onalivecar',
     // 用户名
-//    'username'        => 'root',
-    'username'        => 'onalivecar',
+    'username'        => 'root',
+//    'username'        => 'onalivecar',
     // 密码
-//    'password'        => 'root',
-    'password'        => '@onalivecar',
+    'password'        => 'root',
+//    'password'        => '@onalivecar',
     // 端口
     'hostport'        => '3306',
     // 连接dsn
