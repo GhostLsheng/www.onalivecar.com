@@ -28,4 +28,12 @@ class IndexController extends ApiController
         return json(['status'=>'1','info'=>'无效请求']);
     }
 
+    /**
+     * @description The APP 全局MISS路由，一个父级操作.
+     * @return string
+     */
+    public function missLogin()
+    {
+        return json([]);
+    }
 }
